@@ -1,0 +1,23 @@
+{
+  "accounts": [
+    { "email": "alich0000019+2@gmail.com", "password": "mubasharali" }
+  ],
+  "form": {
+    "full_name": "Mubashar Ali",
+    "phone": "03041558828",
+    "passport_number": "VG1828561",
+    "passport_expiry": "15092026",
+    "passport_issue_date": "16092021",
+    "date_of_birth": "26071997",
+    "apofasi": "(AM337332) 2025/14435",
+    "employer": "athanasios kikidis konstantinou",
+    "region": "ΗΡΑΚΛΕΙΟ",
+    "father": "Muhammad Azam",
+    "husband": "nil",
+    "address": "Sheikhupura",
+    "cnic": "3540195728567"
+  },
+  "slot": {
+    "pick_index": 4
+  }
+}

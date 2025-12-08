@@ -1,0 +1,23 @@
+{
+  "accounts": [
+    { "email": "xyedmohsin4+122@gmail.com", "password": "@Syed.4321" }
+  ],
+  "form": {
+    "full_name": "Hamais",
+    "phone": "03034202463",
+    "passport_number": "AE6296552",
+    "passport_expiry": "09102029",
+    "passport_issue_date": "09102024",
+    "date_of_birth": "23032005",
+    "apofasi": "(AM305111) 2025/3078",
+    "employer": "regklis georgios",
+    "region": "ΗΡΑΚΛΕΙΟ",
+    "father": "Ali Shaukat",
+    "husband": "nil",
+    "address": "Lahore",
+    "cnic": "3440145326049"
+  },
+  "slot": {
+    "pick_index": 8
+  }
+}

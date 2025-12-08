@@ -1,0 +1,23 @@
+{
+  "accounts": [
+    { "email": "xyedmohsin4+16@gmail.com", "password": "@Syed.4321" }
+  ],
+  "form": {
+    "full_name": "Hussain Iftikhar",
+    "phone": "03471458057",
+    "passport_number": "CM1579021",
+    "passport_expiry": "13022028",
+    "passport_issue_date": "13022023",
+    "date_of_birth": "23032005",
+    "apofasi": "(AM169484) 2025/6000",
+    "employer": "Emmanouil Konstantinos Emmanouil",
+    "region": "ΗΡΑΚΛΕΙΟ",
+    "father": "Muhammad Yousaf",
+    "husband": "nil",
+    "address": "Mirpur AJK",
+    "cnic": "3440145326049"
+  },
+  "slot": {
+    "pick_index": 7
+  }
+}

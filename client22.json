@@ -1,0 +1,23 @@
+{
+  "accounts": [
+    { "email": "alich0000021+21@gmail.com", "password": "shakirullah" }
+  ],
+  "form": {
+    "full_name": "Shakir Ullah",
+    "phone": "03491611295",
+    "passport_number": "XZ2742131",
+    "passport_expiry": "12092029",
+    "passport_issue_date": "13092024",
+    "date_of_birth": "01021993",
+    "apofasi": "(AM315393) 2025/15713",
+    "employer": "stefanos sfakianakis",
+    "region": "ΗΡΑΚΛΕΙΟ",
+    "father": "Ghulam Hussain",
+    "husband": "nil",
+    "address": "Peshawar",
+    "cnic": "1730141722139"
+  },
+  "slot": {
+    "pick_index": 2
+  }
+}
